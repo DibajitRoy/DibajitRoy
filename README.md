@@ -12,20 +12,12 @@
 
 ## About Me
 
-I'm a Computer Science student at **American International University-Bangladesh (AIUB)**, based in Dhaka. I build end-to-end web products and apply machine learning to practical problems. My work spans full stack development and applied AI across data science, computer vision and natural language processing, including Bangla text. I care about clean, maintainable code and about shipping things people can actually use.
-
-| Focus | What I work on |
-|---|---|
-| **Full Stack Development** | Responsive web apps, REST APIs, relational and NoSQL databases |
-| **Applied AI / ML** | Data analysis, model building and evaluation in Python |
-| **Computer Vision & NLP** | Image-based pattern recognition, Bangla text processing |
+I'm a CSE student at **American International University-Bangladesh (AIUB)**, based in Dhaka. I build full stack web applications and work on AI/ML projects in data science, computer vision and NLP. I enjoy turning ideas into working products and I'm always learning new technologies to grow as a developer.
 
 ## Currently
 
-- Building **NewsBangla24**
-- Deepening my work in computer vision and pattern recognition
-- Developing NLP models for Bangla text
-- Moving ML experiments toward deployable web applications
+- Developing a full stack MERN application (MongoDB, Express, React, Node.js)
+- Working on data science projects, from data analysis to model building
 
 ---
 
@@ -36,6 +28,7 @@ I'm a Computer Science student at **American International University-Bangladesh
     <td width="200"><b>Languages</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R" title="R"/>&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/>&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP"/>&nbsp;
